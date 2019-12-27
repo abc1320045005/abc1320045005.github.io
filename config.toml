@@ -1,4 +1,5 @@
-baseurl = "https://abc1320045005.github.io"
+publishDir = "docs"
+baseurl = "https://abc1320045005.github.io/"
 title = "Huabing Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
